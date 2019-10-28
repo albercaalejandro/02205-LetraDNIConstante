@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package letradniconstante;
+package org.japo.java.main;
 /**
  *
  * @author Alejandro Alberca - alejandro.alberca.alum@iescamp.es
